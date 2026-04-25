@@ -1,0 +1,2 @@
+# Conduct-Exploratory-Data-Analysis-EDA-on-a-UPI-Unified-Payments-Interface-transactions-
+dataset consisting of 350 records of digital payments made through apps like Swiggy, Amazon, Jio, and IRCTC. This involves understanding the data structure, handling any data quality issues, performing statistical analysis, creatingfinding correlations between financial variables, extracting meaningful business insights using Python and IBM SPSS
